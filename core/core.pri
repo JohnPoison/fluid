@@ -17,3 +17,5 @@ SOURCES += \
 
 RESOURCES += \
     $$PWD/core.qrc
+
+INCLUDEPATH += $$PWD

@@ -1,3 +1,5 @@
+QT += svg
+
 DEFINES += FLUID_LOCAL
 include(src/src.pri)
 include(core/core.pri)
